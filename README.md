@@ -3,8 +3,11 @@
 - Then, clone the repo as a folder (directory -- we use both linux and win terms interchangeably) 
     - that is on Windows's PATH,
         - for exaample: C:/001mybat.
-            - If you do not know how to set "PATH", just google "set environmental vairable PATH on windows". 
-                - It is VERY easy.  
+            - For historical reasons, I put them in C:/user/0bin.
+                - Note that the "user" folder does not exist on most PCs.
+ 
+    - If you do not know how to set "PATH", just google "set environmental vairable PATH on windows". 
+        - It is VERY easy.  
 
 - Then, you can enjoy those tiny tools:
     - Typically, you use them within cmd prompt. 
