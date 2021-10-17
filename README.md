@@ -20,7 +20,12 @@
                 - and, parameter passing does not work when called from WSL2.  
                 
     - Note that they are self-documenting -- which is very important.  
-    
+ 
+
+------------------------------------    
+
+- More perspective/big-picture stuff, please go to the README in repo "WSL2_myvi". 
+
 - A related note: when use ssh to push/pull from github, the git URL:
     - Git protocol  (i.e. git@xxxxxxxx) uses ":"  
     - Https protocol (i.e. https://xxxx) uses "/"
